@@ -5,3 +5,4 @@ flask-ngrok
 pyngrok
 google-generativeai
 gunicorn
+python-dotenv
