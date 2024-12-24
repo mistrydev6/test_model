@@ -1,0 +1,6 @@
+Flask
+pydub
+Flask-Cors
+flask-ngrok
+pyngrok
+google-generativeai
